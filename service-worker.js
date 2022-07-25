@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aem-headless-basic-tutorial/precache-manifest.ddd54fdad017ec67e48689313c1b132a.js"
+  "/aem-headless-basic-tutorial/precache-manifest.7d6d6a7f5d26370a4378ca699f24dcb6.js"
 );
 
 self.addEventListener('message', (event) => {
