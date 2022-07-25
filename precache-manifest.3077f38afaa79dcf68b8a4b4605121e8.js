@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6dbfc378c7bdfb6a32065b272aa41cd0",
+    "revision": "ce3febbd387c0223f14ea25d2eecfb32",
     "url": "/aem-headless-basic-tutorial/index.html"
   },
   {
-    "revision": "c6aaf8c51c4176c571e0",
+    "revision": "e7619b7a339c431b6623",
     "url": "/aem-headless-basic-tutorial/static/css/main.c08dfc50.chunk.css"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aem-headless-basic-tutorial/static/js/2.d9d62e9b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c6aaf8c51c4176c571e0",
-    "url": "/aem-headless-basic-tutorial/static/js/main.a046d37c.chunk.js"
+    "revision": "e7619b7a339c431b6623",
+    "url": "/aem-headless-basic-tutorial/static/js/main.4ec6f2a2.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/aem-headless-basic-tutorial/static/js/main.a046d37c.chunk.js.LICENSE.txt"
+    "url": "/aem-headless-basic-tutorial/static/js/main.4ec6f2a2.chunk.js.LICENSE.txt"
   },
   {
     "revision": "987e669013c937485301",
